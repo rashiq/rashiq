@@ -1,5 +1,5 @@
 ### Hi there 
-I work here. I'm an Infrastructure Engineer at GitHub.
+I work here.
 
 You can follow me on [twitter](http://a.rashiq.me/l/twitter).
 
