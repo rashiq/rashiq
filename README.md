@@ -1,6 +1,5 @@
-### Hi there 
-I work here.
+### Hi there
 
-You can follow me on [twitter](http://a.rashiq.me/l/twitter).
+I work here.
 
 <img src="https://a.rashiq.me/gh.png" width="0px" height="0px" style="display:none;"/>
